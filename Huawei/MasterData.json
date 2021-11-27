@@ -1,6 +1,6 @@
 {
-    "UpdateURL": "",
-    "AdsManagerURL": "",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/AdsDATA.json",
     "MoreGameURL": "",
     "OneSignalPushId": "",
     "feedbackEmail": "[Your feedback mail]",
