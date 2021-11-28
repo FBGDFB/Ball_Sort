@@ -1,9 +1,9 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/AdsDATA.json",
-    "MoreGameURL": "",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/MoreGame.json",
     "OneSignalPushId": "",
-    "feedbackEmail": "[Your feedback mail]",
+    "feedbackEmail": "bouhaili.24@gmail.com",
     "Appelink": "[Your application store link]",
     "privacyURL": ""
 }
