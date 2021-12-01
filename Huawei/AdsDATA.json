@@ -1,6 +1,6 @@
 {
     "Virtion": "1.0.0",
-    "EnableOnerAds": 1,
+    "EnableOnerAds": 0,
     "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/professionally.jpg",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/professionally.jpg",
     "Description": "This Is Just A test Discription",
