@@ -1,10 +1,10 @@
 {
-    "Virtion": "1.0.0",
+    "Virtion": "1.0.1",
     "EnableOnerAds": 0,
-    "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/professionally.jpg",
-    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/professionally.jpg",
-    "Description": "This Is Just A test Discription",
-    "Title": "New Game Avalibale",
+    "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/DnDNFpcW0AEXcdU.png",
+    "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills with an expert-level game or take a break with a quick game in easy mode. Whether you are a professional puzzle solver or looking for a way to relax, a beginner or a professional puzzle solver, Sudoku LITE for mobile is the best way to pass the time.",
+    "Title": "Sudoku LITE",
     "ImageADS": {
         "instanceID": 0
     }
